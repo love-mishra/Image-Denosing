@@ -14,6 +14,7 @@ testing purpose.
 - rescale the images to 255 
 - and then reshape the images into (400,600,1)
 ### Model
+- I have constructed my own architechure model.
 - This contain two part first encoder and second decoder part.
 <br>*Encoder*:</br>
 - It consists two CNN operation and two max pooling operation
