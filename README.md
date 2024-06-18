@@ -1,4 +1,4 @@
-# Image-Denosing
+# Image-Denoising
 ### Introduction 
 - This project involves a model which takes noisy image data and then convert them into denoised images.
 - This model is simple autoencoder model which convert the input denoised image into latent space and then by upsampling convert them into denoised output image.
